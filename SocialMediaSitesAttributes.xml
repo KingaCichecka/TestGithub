@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SocialNetworkingSites>
+    <Network1>
+        <Name  name="4chan" langague="English">
+        <LaunchDate month="October" unit="year">2003</LaunchDate>
+        <Type format="Imagineboard" anonymity="anonymous"></Type>
+        <Focus content="Photos" dailyusers="milions">18.5</Focus>
+    </Network1>
+     <Network2>
+        <Name  name="Facebook" langague="English">
+        <LaunchDate month="February" unit="year">2004</LaunchDate>
+        <Type format="Blog" anonymity=" not anonymous"></Type>
+        <Focus content="Photos" dailyusers="bilion">2.1</Focus>
+    </Network2>
+    <Network3>
+        <Name  name="GameFAQs" langague="English">
+        <LaunchDate month="November" unit="year">1995</LaunchDate>
+        <Type format="FAQ" anonymity="not anonymous"></Type>
+        <Focus content="Photos" dailyusers="thousand">7</Focus>
+    </Network3>
+     <Network4>
+        <Name  name="GitHub" langague="English">
+        <LaunchDate month="February" unit="year">2008</LaunchDate>
+        <Type format="Blog" anonymity=" not anonymous"></Type>
+        <Focus content="cloud storage" dailyusers="milion">6.4</Focus>
+    </Network4>
+    <Network5>
+        <Name  name="LiveJournal" langague="English">
+        <LaunchDate month="April" unit="year">1999</LaunchDate>
+        <Type format="Blog" anonymity="anonymous"></Type>
+        <Focus content="Journals" dailyusers="milion">30</Focus>
+    </Network5>
+     <Network6>
+        <Name  name="MySpacce" langague="English">
+        <LaunchDate month="August" unit="year">2008</LaunchDate>
+        <Type format="Blog" anonymity=" not anonymous"></Type>
+        <Focus content="Photos" dailyusers="milion">7</Focus>
+    </Network6>
+
+        
