@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SocialNetworkingSities>
+    <Network1>
+        <Name>4chan</Name>
+        <LaunchDate>2003</LaunchDate>
+        <Type>Imagineboard</Type>
+        <Focus>Anime</Focus>
+    </Network1>
+    <Network2>
+        <Name>Facebook</Name>
+        <LaunchDate>2004</LaunchDate>
+        <Type>Blog</Type>
+        <Focus>Photos</Focus>
+    </Network2>
+    <Network3>
+        <Name>GameFAQs</Name>
+        <LaunchDate>1995</LaunchDate>
+        <Type>FAQ</Type>
+        <Focus>Video games</Focus>
+    </Network3>
+     <Network4>
+        <Name>Github</Name>
+        <LaunchDate>2008</LaunchDate>
+        <Type>Social Coding</Type>
+        <Focus>Software Development</Focus>
+    </Network4>
+    <Network5>
+        <Name>LiveJournal</Name>
+        <LaunchDate>1999</LaunchDate>
+        <Type>Blog</Type>
+        <Focus>Blogging</Focus>
+    </Network5>
+    <Network6>
+        <Name>MySpace</Name>
+        <LaunchDate>2003</LaunchDate>
+        <Type>Blog</Type>
+        <Focus>Young People</Focus>
+    </Network6>
+</SocialNetworkingSities>
+    
