@@ -1,0 +1,21 @@
+<<<<<<< HEAD
+[
+    { "name": "Facbook", "launch year": 2011, "active users": 15.1196, "app": true, "inventor": "Mark Zuckenberg"},
+    { "name": "Instagram", "launch year": 2004, "active users": 84651.85496, "app": true, "inventor": "Kevin Systrom"},
+    { "name": "YouTube", "launch year": 2007, "active users": 151565843, "app": true, "inventor": "Steve Chen"},
+    { "name": "Telegram", "launch year": 2015, "active users": 15613, "app": true, "inventor": "Chad Hurley"},
+    { "name": "TikTok", "launch year": 2016, "active users": 529659, "app": true, "inventor": "Jawed Karim"},
+    { "name": "Snapchat", "launch year": 2010, "active users": 557, "app": true, "inventor": "Zhang Yiming"}
+]
+=======
+{
+    "name": "Facebook",
+    "launch year": 2004,
+    "montly active users": 3.074,
+    "app": true,
+    "cooworker sites": {"Instagram": "Snapchat"},
+    "Creator": "Marko Zuckenerg",
+    "Place of invent": "California",
+    "Amount of users for last 4 years": [17354, 1564, 54.644 ,46845]
+}
+>>>>>>> 1007549a6cf90487542376538895f4be1c01a69b
